@@ -1,0 +1,24 @@
+{
+  "name": "npm-doctor",
+  "version": "1.0.0",
+  "description": "npm diagnosis and reporting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smikes/npm-doctor.git"
+  },
+  "keywords": [
+    "npm",
+    "doctor",
+    "help"
+  ],
+  "author": "Sam Mikes <smikes@cubane.com>",
+  "license": "Artistic-2.0",
+  "bugs": {
+    "url": "https://github.com/smikes/npm-doctor/issues"
+  },
+  "homepage": "https://github.com/smikes/npm-doctor"
+}
