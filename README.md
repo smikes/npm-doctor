@@ -3,6 +3,7 @@ npm-doctor
 
 Diagnosis and reporting tool for npm problems
 
+***This project is abandoned***.  See https://github.com/legodude17/npm-troubleshoot for a project in a similar vein
 
 ## Development
 
